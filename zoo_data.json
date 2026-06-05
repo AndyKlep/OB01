@@ -1,0 +1,30 @@
+{
+    "name": "Зоопарк имени Неуловимого Джо",
+    "animals": [
+        {
+            "class": "Bird",
+            "name": "Kesha",
+            "age": 4
+        },
+        {
+            "class": "Mammal",
+            "name": "Murka",
+            "age": 11
+        },
+        {
+            "class": "Reptile",
+            "name": "Sam",
+            "age": 2
+        }
+    ],
+    "workers": [
+        {
+            "class": "ZooKeeper",
+            "name": "Ivan"
+        },
+        {
+            "class": "Veterinarian",
+            "name": "Kolya"
+        }
+    ]
+}
